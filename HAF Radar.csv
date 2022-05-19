@@ -1,0 +1,34 @@
+﻿name,ring,quadrant,isNew,description
+Nuclear Energy Institute,Adopt,Organisations,TRUE,https://www.nei.org/home
+Nuclear Matters,Adopt,Organisations,TRUE,https://www.nuclearmatters.com/
+American Nuclear Society,Adopt,Organisations,TRUE,https://www.ans.org/
+World Nuclear Association,Adopt,Organisations,TRUE,https://www.world-nuclear.org/
+Nuclear Industry Association,Adopt,Organisations,TRUE,http://niauk.org
+Institutt for energiteknikk,Adopt,Organisations,TRUE,https://ife.no/
+CERN,Adopt,Organisations,TRUE,https://home.cern/
+Nuclear Institute,Adopt,Organisations,TRUE,https://www.nuclearinst.com/Homepage
+European Nuclear Society,Adopt,Organisations,TRUE,https://www.euronuclear.org/
+Small Modular Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
+Salt and Sodium Cooled Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
+Molten Fluoride Salt Cooled High-Temperature Reactor,Assess,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
+Micro-Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
+High-Temperature Gas Cooled Reactors,Assess,Technologies,TRUE,TBD
+AWS S3,Adopt,Technologies,TRUE,TBD
+JFrog,Adopt,Technologies,TRUE,TBD
+Camunda,Adopt,Technologies,TRUE,TBD
+Prometheus,Adopt,Research Projects,TRUE,TBD
+Grafana,Trial,Research Projects,TRUE,TBD
+Figma,Adopt,Research Projects,TRUE,TBD
+IntelliJ 2021,Adopt,Research Projects,TRUE,TBD
+Visual Studio Code,Adopt,Research Projects,TRUE,TBD
+IntelliJ 2022,Adopt,Research Projects,TRUE,TBD
+Maven,Adopt,Research Projects,TRUE,TBD
+JProfiler,Assess,Research Projects,TRUE,TBD
+Cypress,Adopt,Research Projects,TRUE,TBD
+Install4j,Hold,Research Projects,TRUE,TBD
+Snyk,Trial,Research Projects,TRUE,TBD
+Thorium,Adopt,Nuclear Materials,TRUE,TBD
+Uranium,Adopt,Nuclear Materials,TRUE,TBD
+Plutonium,Trial,Nuclear Materials,TRUE,TBD
+Deuterium,Adopt,Nuclear Materials,TRUE,TBD
+Tritium,Adopt,Nuclear Materials,TRUE,TBD
