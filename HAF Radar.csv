@@ -13,20 +13,7 @@ Salt and Sodium Cooled Reactors,Trial,Technologies,TRUE,https://www.nei.org/news
 Molten Fluoride Salt Cooled High-Temperature Reactor,Assess,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
 Micro-Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
 High-Temperature Gas Cooled Reactors,Assess,Technologies,TRUE,TBD
-AWS S3,Adopt,Technologies,TRUE,TBD
-JFrog,Adopt,Technologies,TRUE,TBD
-Camunda,Adopt,Technologies,TRUE,TBD
-Prometheus,Adopt,Research Projects,TRUE,TBD
-Grafana,Trial,Research Projects,TRUE,TBD
-Figma,Adopt,Research Projects,TRUE,TBD
-IntelliJ 2021,Adopt,Research Projects,TRUE,TBD
-Visual Studio Code,Adopt,Research Projects,TRUE,TBD
-IntelliJ 2022,Adopt,Research Projects,TRUE,TBD
-Maven,Adopt,Research Projects,TRUE,TBD
-JProfiler,Assess,Research Projects,TRUE,TBD
-Cypress,Adopt,Research Projects,TRUE,TBD
-Install4j,Hold,Research Projects,TRUE,TBD
-Snyk,Trial,Research Projects,TRUE,TBD
+Coordinated Research Projects IAEA,Adopt,Research Projects,TRUE,TBD
 Thorium,Adopt,Nuclear Materials,TRUE,TBD
 Uranium,Adopt,Nuclear Materials,TRUE,TBD
 Plutonium,Trial,Nuclear Materials,TRUE,TBD
