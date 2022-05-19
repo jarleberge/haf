@@ -1,13 +1,14 @@
 ﻿name,ring,quadrant,isNew,description
 Nuclear Energy Institute,Adopt,Organisations,TRUE,https://www.nei.org/home
-Nuclear Matters,Adopt,Organisations,TRUE,https://www.nuclearmatters.com/
-American Nuclear Society,Adopt,Organisations,TRUE,https://www.ans.org/
-World Nuclear Association,Adopt,Organisations,TRUE,https://www.world-nuclear.org/
-Nuclear Industry Association,Adopt,Organisations,TRUE,http://niauk.org
-Institutt for energiteknikk,Adopt,Organisations,TRUE,https://ife.no/
+Hillevåg Atomkraftforening,Adopt,Organisations,TRUE,https://haf.no
+Nuclear Matters,Trial,Organisations,TRUE,https://www.nuclearmatters.com/
+American Nuclear Society,Trial,Organisations,TRUE,https://www.ans.org/
+World Nuclear Association,Trial,Organisations,TRUE,https://www.world-nuclear.org/
+Nuclear Industry Association,Trial,Organisations,TRUE,http://niauk.org
+Institutt for energiteknikk,Trial,Organisations,TRUE,https://ife.no/
 CERN,Adopt,Organisations,TRUE,https://home.cern/
-Nuclear Institute,Adopt,Organisations,TRUE,https://www.nuclearinst.com/Homepage
-European Nuclear Society,Adopt,Organisations,TRUE,https://www.euronuclear.org/
+Nuclear Institute,Trial,Organisations,TRUE,https://www.nuclearinst.com/Homepage
+European Nuclear Society,Trial,Organisations,TRUE,https://www.euronuclear.org/
 Small Modular Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
 Salt and Sodium Cooled Reactors,Trial,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
 Molten Fluoride Salt Cooled High-Temperature Reactor,Assess,Technologies,TRUE,https://www.nei.org/news/2021/advancing-nuclear-technologies
